@@ -6,3 +6,8 @@ beautifulsoup4
 lxml 
 html5lib
 python-dotenv
+pandas
+matplotlib.pyplot
+sklearn.cluster 
+scipy.stats
+seaborn 
