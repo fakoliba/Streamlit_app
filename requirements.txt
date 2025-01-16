@@ -12,3 +12,4 @@ sklearn.cluster
 scipy.stats
 seaborn 
 numpy 
+scikit-learn
