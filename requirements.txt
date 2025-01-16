@@ -11,3 +11,4 @@ matplotlib.pyplot
 sklearn.cluster 
 scipy.stats
 seaborn 
+numpy 
