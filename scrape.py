@@ -5,10 +5,10 @@ from selenium.webdriver.common.keys import Keys  # Importing the Keys class for 
 from selenium.webdriver.chrome.options import Options  # Importing the Options class to set Chrome options
 from bs4 import BeautifulSoup  # Importing BeautifulSoup for parsing HTML content
 from selenium.webdriver.support.ui import WebDriverWait  # Importing WebDriverWait for explicit waits
-from dotenv import load_dotenv  # Importing load_dotenv to load environment variables from a .env file
+#from dotenv import load_dotenv  # Importing load_dotenv to load environment variables from a .env file
 import os  # Importing the os module for interacting with the operating system
 import time  # Importing the time module for time-related functions
-
+#load_dotenv()  # Loading environment variables from a .env file
 
 
 def scrape_website(website):
