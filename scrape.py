@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait  # Importing WebDriverWa
 from dotenv import load_dotenv  # Importing load_dotenv to load environment variables from a .env file
 import os  # Importing the os module for interacting with the operating system
 import time  # Importing the time module for time-related functions
-load_dotenv()  # Loading environment variables from a .env file
+
 
 
 def scrape_website(website):
