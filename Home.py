@@ -23,8 +23,8 @@ With a solid foundation in DevOps, cloud infrastructure, and cutting-edge techno
 
 # Links to Online Profiles
 st.header("Connect with Me")
-linkedin_url = "https://www.linkedin.com/in/your-linkedin-profile/"
-github_url = "https://github.com/your-github-profile"
+linkedin_url = "https://www.linkedin.com/in/mohamed-c-57ba0a1b3/"
+github_url = "https://github.com/fakoliba"
 
 st.write(f"[LinkedIn Profile]({linkedin_url})")
 st.write(f"[GitHub Profile]({github_url})")
